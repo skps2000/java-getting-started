@@ -1,0 +1,4 @@
+
+./mvnw clean install
+heroku local --port 5001
+heroku config
